@@ -1,5 +1,14 @@
-*This is italic text*
+# Skills
 
-**This is bold text**
+## Below is a _list_ of my **technical skills**:
 
-_This is **combin** text_
+# Programming Languages
+- Java
+- JavaScript
+- Reactive
+
+# Databases
+- Oracle
+- MySQL
+- DB2
+- SQL Server
