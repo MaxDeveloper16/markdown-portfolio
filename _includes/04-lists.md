@@ -1,6 +1,5 @@
-# My to do list
+# This is my favorite thing
 1.  Learn Git and GitHub :tada:
-2.  Swimming in the pool
-3.  Prepare my dinner
-      1.  Go to supermarket
-      2.  Cookking
+2.  Swimming
+3.  Cooking
+   
